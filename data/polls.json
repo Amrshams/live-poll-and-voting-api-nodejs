@@ -1,0 +1,25 @@
+[
+  {
+    "id": "fee5464a-1f2d-469b-a68f-71e0d2083be5",
+    "question": "What is your Preferred Programming Language?",
+    "creatorId": "497b3d56-3a5b-49ab-9dd5-c6571511e1eb",
+    "status": "open",
+    "options": [
+      {
+        "id": "1a0f433e-52ab-436a-be20-e069e56861c2",
+        "text": "Python",
+        "votes": 0
+      },
+      {
+        "id": "95059318-ace3-48bc-acdd-51eecebd4b82",
+        "text": "NodeJs",
+        "votes": 2
+      }
+    ],
+    "voters": [
+      "497b3d56-3a5b-49ab-9dd5-c6571511e1eb",
+      "9d5c2c88-7898-4df3-a988-96747e04d0fd"
+    ],
+    "createdAt": "2026-11-24T17:44:01.584Z"
+  }
+]
