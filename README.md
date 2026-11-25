@@ -45,7 +45,7 @@ live-poll-api/
 ## Getting Started
 
 ### Prerequisites
-- **Node.js** v20+ (LTS recommended)
+- **Node.js** v20+
 - **npm** v10+
 
 ### 1. Installation
