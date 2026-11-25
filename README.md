@@ -50,7 +50,7 @@ live-poll-api/
 
 ### 1. Installation
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Amrshams/live-poll-and-voting-api-nodejs.git
 cd real-time-live-poll-and-voting-api
 npm install
 ```
